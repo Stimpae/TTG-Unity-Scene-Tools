@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d52eb39134fcd3499a3a5b8e2c9456d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - tabTreeAsset: {fileID: 9197481963319205126, guid: 4bf375e8e3ee20044821cf5a16e2d13c, type: 3}
+  - buildSettingsTreeAsset: {instanceID: 0}
+  - sceneGroupsTreeAsset: {instanceID: 0}
+  - sceneSelectionTreeAsset: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

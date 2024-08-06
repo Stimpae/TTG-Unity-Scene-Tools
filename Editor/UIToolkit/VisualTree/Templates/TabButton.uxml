@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/TTG%20Scene%20Tools/Editor/UIToolkit/Style/SceneToolWindowStyle.uss?fileID=7433441132597879392&amp;guid=517c27c9c755e174db681b62113c508d&amp;type=3#SceneToolWindowStyle" />
+    <ui:Label tabindex="-1" text="Label" parse-escape-sequences="true" display-tooltip-when-elided="true" name="tab-button" style="justify-content: space-around; height: 100%; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgba(59, 59, 59, 0);">
+        <ui:VisualElement style="flex-grow: 1; background-color: rgb(255, 3, 3); height: 3px; max-height: 3px; position: relative; bottom: -16px; width: 100%; opacity: 0;" />
+    </ui:Label>
+</ui:UXML>
